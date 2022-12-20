@@ -1,0 +1,219 @@
+Totka = input("Totka Putaje tebe").lower()
+
+TotkaL = len(totka)
+
+TotkaList = list(totka)
+
+for i in range(0, TotkaL):
+    if(TotkaList[i] == "a"):
+        print('''  ### 
+ #   #
+ #   #
+ #####
+ #   #
+ #   #
+ #   #\n''' )
+    elif(TotkaList[i] == "b"):
+        print('''#### 
+#   #
+#   #
+#### 
+#   #
+#   #
+####\n''' )
+    elif(TotkaList[i] == "c"):
+        print(''' ### 
+#   #
+#  
+# 
+#
+#   #
+ ### \n''' )
+    elif(TotkaList[i] == "d"):
+        print('''#### 
+#   #
+#   #
+#   #
+#   #
+#   #
+####\n''' )
+    elif(TotkaList[i] == "e"):
+        print('''#####
+#######
+#
+########
+#
+#
+########\n''' )
+    elif(TotkaList[i] == "f"):
+        print('''#####
+#
+#
+###
+#
+#
+#\n''' )
+    elif(TotkaList[i] == "g"):
+        print(''' ###
+#   #
+#
+#  ##
+#   #
+#   #
+ ###\n''' )
+    elif(TotkaList[i] == "h"):
+        print('''#   #
+#   #
+#   #
+#####
+#   #
+#   #
+#   #
+#   #\n''' )
+    elif(TotkaList[i] == "i"):
+        print('''###
+#
+#
+#
+#
+#
+###\n''' )
+    elif(TotkaList[i] == "j"):
+        print('''###
+ #
+ #
+ #
+ #
+ #
+##\n''')
+    elif(TotkaList[i] == "k"):
+        print('''#   #
+#  #
+# #
+##
+# #
+#  #
+#   #\n''' )
+    elif(TotkaList[i] == "l"):
+        print('''#
+#
+#
+#
+#
+#
+#####\n''')
+    elif(TotkaList[i] == "m"):
+        print('''#   #
+#   #
+## ##
+# # #
+#   #
+#   #
+#   #\n''' )
+    elif(TotkaList[i] == "n"):
+        print('''#   #
+#   #
+##  #
+# # #
+#  ##
+#   #
+#   #\n''' )
+    elif(TotkaList[i] == "o"):
+        print(''' ### 
+#   #
+#   #
+#   #
+#   #
+#   #
+ ###\n''' )
+    elif(TotkaList[i] == "p"):
+        print('''####
+#   #
+#   #
+####
+#
+#
+#\n''' )
+    elif(TotkaList[i] == "q"):
+        print('''  ### 
+#   #
+#   #
+#   #
+#   #
+#   #
+#  # 
+ ## #\n''' )
+    elif(TotkaList[i] == "r"):
+        print('''#### 
+#   #
+#   #
+####
+# #
+#  
+#   #\n''' )
+    elif(TotkaList[i] == "s"):
+        print(''' ####
+#
+#
+ ###
+    #
+    #
+ ###\n''' )
+    elif(TotkaList[i] == "t"):
+        print('''#####
+  #
+  #
+  #
+  #
+  #
+  #\n''' )
+    elif(TotkaList[i] == "u"):
+        print('''#   #
+#   #
+#   #
+#   #
+#   #
+#   #
+ # #
+  #\n''' )
+    elif(TotkaList[i] == "v"):
+        print('''#   #
+#   #
+#   #
+#   #
+#   #
+#   #
+ # #
+  #\n''' )
+    elif(TotkaList[i] == "w"):
+        print('''#   #
+#   #
+#   #
+# # #
+## ##
+#   #
+#   #\n''' )
+    elif(TotkaList[i] == "x"):
+        print('''#   #
+#   #
+ # #
+  #
+ # #
+#   #
+#   #\n''' )
+    elif(TotkaList[i] == "y"):
+        print('''#   #
+#   #
+ # #
+  #
+  #
+  #
+  #\n''' )
+    elif(TotkaList[i] == "z"):
+        print('''#####
+    #
+   #
+  #
+ #
+#
+##### \n''' )
